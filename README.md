@@ -1,1 +1,6 @@
-# workshop03
+Broken Rock Paper Scissors
+--------------------------
+
+By: Epifelward Nino Amora
+
+
